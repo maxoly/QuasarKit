@@ -16,4 +16,6 @@ FOUNDATION_EXPORT const unsigned char QuasarKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <QuasarKit/PublicHeader.h>
 
-
+#import <QuasarKit/QSKAction.h>
+#import <QuasarKit/QSKLimiter.h>
+#import <QuasarKit/QSKOperationQueue.h>
